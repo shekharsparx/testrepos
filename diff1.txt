@@ -1,0 +1,11 @@
+diff --git a/test.html b/test.html
+index 67e1a51..b84c830 100644
+--- a/test.html
++++ b/test.html
+@@ -1,5 +1 @@
+-Git Practise session
+-
+-Latter added content.
+-We are leaning git in free time.
+-Currently we are working on the concept of repo and branches.
++fffdsfds
